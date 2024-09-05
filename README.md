@@ -1,6 +1,8 @@
 # Hospital Management System
 
-Project Description 
+Project Description: 
+
+
 This is a simple Hospital Management System built using Python and Tkinter.The system provides functionality to 
 Add patients,doctors and appointments
 View the list of patients,doctors and appointments
